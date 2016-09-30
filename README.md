@@ -33,7 +33,7 @@
 - [Git 과 Redmine 으로 하는 프로젝트 관리](https://www.youtube.com/playlist?list=PLsoscMhnRc7q2YuinpwxFC9cZnL-J7BEK)
 - [WebSite Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)
 
-## Tip & 강의
+## Tip
 - [도커를 이용한 웹서비스 무중단 배포하기](http://subicura.com/2016/06/07/zero-downtime-docker-deployment.html)
 - [REST API 제대로 알고 사용하기](http://meetup.toast.com/posts/92?utm_content=bufferae079&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 - [자바스크립트 디버깅할 때 라이브러리 코드 넘어가기](http://blog.mixed.kr/entry/%EA%B9%A8%EC%95%8C%ED%8C%81-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%94%94%EB%B2%84%EA%B9%85%ED%95%A0-%EB%95%8C-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%BD%94%EB%93%9C-%EB%84%98%EC%96%B4%EA%B0%80%EA%B8%B0)
