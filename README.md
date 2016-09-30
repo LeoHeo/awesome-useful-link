@@ -59,5 +59,5 @@
 - [영어전문가가 말하는 끝판왕 교재 10](https://www.facebook.com/permalink.php?story_fbid=2073654516193134&id=1927599617465292)
 - [어려운것을 쉽게배우는 슈퍼파워를 장착하기 위한 3단계 학습법](http://www.moreagile.net/2016/02/learning-new-stuff.html)
 
-## Coding InterView
+## Coding Interview
 - [Cracking the Coding InterView Challenges](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
